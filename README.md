@@ -14,7 +14,8 @@ We will be using JavaScript and will be using the JSON object we get
 back from a call to an endpoint that will return our results.
 
 ###Todos:
-[ ] Add the HTML for the tutorial
-[ ] Have a launch button to launch the results of the lesson.   
+
+  [ ] Add the HTML for the tutorial    
+  [ ] Have a launch button to launch the results of the lesson.       
 
 More to come...
